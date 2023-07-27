@@ -1,7 +1,3 @@
-![[Screen Shot 2022-06-02 at 9.15.03 PM.png]]
-
-## .
-
 There are 2 ways to get data into a command and 2 ways to get data out.
 
 Standard Input, Standard Output and Standard Error are "Standard Data Streams"
