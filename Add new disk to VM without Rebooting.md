@@ -1,0 +1,1 @@
+https://linoxide.com/add-new-disk-centos-7-without-rebooting

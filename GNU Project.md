@@ -1,0 +1,7 @@
+- Richard Stallman began development of the GNU OS in 1983
+- Free software is like "free speech" rather than "free lunch"
+- Free software gives users 4 freedoms
+- These freedoms gare provided legally using the GNU public License (GPL)
+- Open Access to source code is a preconditions for these freedoms
+- In 91 Linux Torvalds created the Linux Kernel and released it under GPL V2.0
+- Linux is actually the GNU + Linux Operating Systemo
